@@ -1,0 +1,56 @@
+.lead-name {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px;
+  font-size: 15px;
+  width: 250px;
+}
+.l-name {
+  margin-right: 20px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+.lead-d {
+  background-color: rgb(66, 64, 61);
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+  font-size: 20px;
+}
+.cam {
+  font-size: 15px;
+  margin: 5px;
+}
+.step {
+  display: flex;
+  flex-direction: column;
+}
+.step-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 15px;
+}
+.s-e {
+  font-size: 20px;
+}
+.s-p {
+  font-size: 15px;
+}
+.step-mail {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.icon-mini {
+  color: yellow;
+  margin-right: 5px;
+}
+.navg {
+  margin-right: 5px;
+  font-size: 15px;
+}

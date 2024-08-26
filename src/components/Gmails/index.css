@@ -1,0 +1,43 @@
+.ul-container {
+  height: 390px;
+  overflow: auto;
+}
+.li-mail {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 10px;
+  gap: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: 10px;
+}
+.p-mail {
+  font-size: 14px;
+  font-weight: bold;
+}
+.date {
+  font-size: 10px;
+  color: rgb(89, 90, 92);
+}
+.mess {
+  font-size: 13px;
+}
+.opinion {
+  background-color: rgb(31, 190, 137);
+  font-size: 8px;
+  font-weight: bold;
+  color: white;
+  width: 110px;
+  padding: 4px;
+  border-radius: 5px;
+}
+.name-c {
+  background-color: rgb(83, 87, 85);
+  font-size: 8px;
+  color: white;
+  width: 110px;
+  font-weight: bold;
+  padding: 4px;
+  border-radius: 5px;
+}

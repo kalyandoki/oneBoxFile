@@ -1,0 +1,62 @@
+.onbox-container {
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+  color: white;
+  border: 1px solid white;
+  display: flex;
+  flex-direction: row;
+}
+.container-box {
+  width: 100%;
+}
+.onbox2 {
+  background-color: white;
+  height: 100vh;
+  background-size: cover;
+  color: black;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+}
+.one-box {
+  border: 1px solid rgb(136, 131, 131);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  padding: 10px;
+}
+.light-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.select-container {
+  padding: 5px;
+  margin-left: 15px;
+  border: 0px;
+  border-radius: 10px;
+}
+.image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+  gap: 10px;
+}
+.mail {
+  border-radius: 80%;
+  background-color: rgb(140, 198, 236);
+  padding: 20px;
+}
+.img-text {
+  font-size: 18px;
+  font-weight: bold;
+}
+.img-down-text {
+  color: rgb(136, 131, 131);
+  font-size: 15px;
+}

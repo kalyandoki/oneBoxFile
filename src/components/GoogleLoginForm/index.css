@@ -1,0 +1,81 @@
+* {
+  margin: 0px;
+}
+.main-container {
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+  color: white;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 10px;
+  height: 80vh;
+}
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  border: 1px solid whitesmoke;
+  padding: 30px;
+  height: 40vh;
+  border-radius: 20px;
+  gap: 10px;
+}
+.head-reach {
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.one-line {
+  text-align: center;
+}
+.google {
+  background-color: transparent;
+  border: 1px solid whitesmoke;
+  border-radius: 10px;
+}
+.create {
+  font-size: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.btn {
+  background-color: rgb(36, 81, 204);
+  color: azure;
+  padding: 10px;
+  border: 0px;
+  margin-top: 10px;
+  border-radius: 10px;
+  width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sing {
+  font-size: 15px;
+  color: rgb(146, 142, 142);
+  padding: 10px;
+}
+span {
+  color: aliceblue;
+  text-decoration: underline;
+}
+.one-line {
+  font-size: 10px;
+  color: rgb(78, 76, 76);
+  padding: 10px;
+}

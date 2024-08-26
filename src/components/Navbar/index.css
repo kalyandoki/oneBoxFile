@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 100vh;
+  border: 1px solid rgb(104, 100, 92);
+}
+.midle-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon {
+  font-size: 30px;
+  margin: 10px;
+}
+.user {
+  border-radius: 50px;
+  font-size: 18px;
+  background-color: rgb(47, 224, 136);
+  color: rgb(180, 173, 173);
+  padding: 8px;
+}
